@@ -90,6 +90,7 @@ hr {
 }
 
 header {
+	text-align: center;
 	font-size: 2em;
 	margin-bottom: 2rem;
 	color:var(--fill);
