@@ -1,2 +1,1 @@
-# nekoweb
-website
+https://monlueva.github.io/nekoweb/
